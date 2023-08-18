@@ -8,7 +8,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
 
-[Live Report Link]([url](https://www.novypro.com/project/business-360-4))
+[live Report link](https://www.novypro.com/project/business-360-4)
 
 Tech stacks
 SQL
